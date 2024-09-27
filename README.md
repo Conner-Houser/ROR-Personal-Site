@@ -32,4 +32,4 @@ RubyOnRails (Rails for short) is also installed, and you create a Rails applicat
 rails new APP_NAME_GOES_HERE
 ```
 
-Check out [The Rails Commandline](https://guides.rubyonrails.org/command_line.html) guite for more options.
+Check out [The Rails Commandline](https://guides.rubyonrails.org/command_line.html) guite for more options.# WEB3200-Assignment3
